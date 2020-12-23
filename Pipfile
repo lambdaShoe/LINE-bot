@@ -6,9 +6,9 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-python-dotenv = "==0.10.3"
+python-dotenv = "*"
 graphviz = "*"
-transitions = "==0.6.9"
+transitions = "*"
 line-bot-sdk = "==1.14.0"
 Flask = "==1.0.2"
 
